@@ -22,7 +22,7 @@ The objective is to achieve the highest score possible within the given time fra
 
 <h1>System requirements</h1>
 
-- <strong>OS: Your choise</strong>
+- <strong>OS: Your choice</strong>
 - <strong>Browser: latest versions recommended</strong>
 
 <h1>Features</h1>
