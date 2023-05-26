@@ -11,7 +11,7 @@
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
 
-<h1>See About Potato AimLabs</h1>
+<h1>About Potato AimLabs</h1>
   
 #### Potato Aim Labs is an aim trainer built using HTML, CSS, and JavaScript.
   - It provides a fun and challenging environment for improving your aim and reflexes.
