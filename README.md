@@ -1,12 +1,11 @@
   <p align="center">
-  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs.github.io/main/logo.jpg" />
+  <a href="https://github.com/Calamivathan/Potato-AimLabs.github.io/tree/main"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs.github.io/main/maxresdefault.jpg" />
 </p>
 
 <p align="center">        
-      <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_Channel.svg"></a>
-      <a href="https://t.me/SpotxCommunity"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_Community.svg"></a>
-      <a href="https://github.com/jetfir3/SpotX-Bash"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_for_Mac&Linux.svg"></a>
-      <a href="https://telegra.ph/SpotX-FAQ-09-19"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/faq.svg"></a>
+      <a href="#"><img src="https://www.svgrepo.com/show/174382/awwwards-website-logo.svg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_Community.svg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/SpotX_for_Mac&Linux.svg"></a>
       </p>
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
