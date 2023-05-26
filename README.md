@@ -44,7 +44,7 @@
 - google images for crosshair and background images
 
 <h1>MIT License</h1>
-<p>Copyright (c) 2023 CICADA1857
+<p>Copyright (c) 2023 Calamivathan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
