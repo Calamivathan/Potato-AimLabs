@@ -17,6 +17,7 @@
 - <strong>Browser: latest versions recommended</strong>
 
 <h1>Features</h1>
+
 - <strong>Super smooth</strong>
 - <strong>random spawning of hit Balls</strong>
 - <strong>Custom crosshair</strong>
