@@ -11,6 +11,17 @@
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
 
+<h1>See About Potato AimLabs</h1>
+  
+#### Potato Aim Labs is an aim trainer built using HTML, CSS, and JavaScript.
+  - It provides a fun and challenging environment for improving your aim and reflexes.
+  - The aim trainer features a time limit of 45 seconds, after which it automatically resets, allowing you to continuously practice and strive for better scores.
+
+  - At the top of the interface, you'll find a scoreboard displaying your current score, remaining time, total missed hits, and frames per second (FPS) information.
+  - To aim and shoot, you must hit the randomly spawning balls using a custom CS:GO crosshair.
+  - The objective is to achieve the highest score possible within the given time frame.
+
+
 <h1>System requirements</h1>
 
 - <strong>OS: Your choise</strong>
@@ -22,17 +33,6 @@
 - <strong>random spawning of hit Balls</strong>
 - <strong>Custom crosshair</strong>
 - <strong>FPS meter</strong>
-<details>
-<summary><small>See About Potato AimLabs</small></summary><p>
-  
-#### Potato Aim Labs is an aim trainer built using HTML, CSS, and JavaScript.
-  - It provides a fun and challenging environment for improving your aim and reflexes.
-  - The aim trainer features a time limit of 45 seconds, after which it automatically resets, allowing you to continuously practice and strive for better scores.
-
-  - At the top of the interface, you'll find a scoreboard displaying your current score, remaining time, total missed hits, and frames per second (FPS) information.
-  - To aim and shoot, you must hit the randomly spawning balls using a custom CS:GO crosshair.
-  - The objective is to achieve the highest score possible within the given time frame.
-</details>
   
 <h1>Issues</h1>
 
