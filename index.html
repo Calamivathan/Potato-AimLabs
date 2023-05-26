@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mynerve&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style2.css">
+</head>
+<body >
+<div class="image-container">
+<div class="top-row">
+Total clicks: <span id="screen-count">--</span>
+&nbsp;
+Hits: <span id="hits">--</span>
+&nbsp;Miss Hits: <span id="wrong_hits">--</span>
+&nbsp;SCORE: <span id="score_board">--</span>
+&nbsp;Timer: <span id="timer">--:--</span><br>
+</div>
+<div class="hit-box" id="orignal-hit-box"  onclick="delete_hitbox()"></div>
+<button class="start-button" onclick="resetClickCount()">
+    <span class="front">
+      Start Game
+    </span>
+  </button>
+  <button class="play-again" onclick="resetClickCount()">
+    <span class="play-span">
+      Play again
+    </span>
+  </button>
+  <img src="back22.jpg">
+<div class="control-panel">
+  <div class="colour-box">
+    Select Colour <br><button class="ball-colour" id="blue-ball"  onclick="changecolour_blue()">🔵</button>
+    <button class="ball-colour" id="red-ball"  onclick="changecolour_red()">🔴</button>
+    <button class="ball-colour" id="green-ball"  onclick="changecolour_green()">🟢</button>
+    <button class="ball-colour" id="rainbow-ball"  onclick="changecolour_rainbow()">🌈</button><br></div>
+  </div>
+    <div class="fps-box">
+  <span id="fps">--</span> FPS</div>
+</div>
+<script src="script2.js"></script>
+<script src="script1.js"></script>
+</body>
+</html>

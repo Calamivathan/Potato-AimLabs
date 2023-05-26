@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+      .image-container {
+    position:fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; /* Hide any overflowing image content */
+  }
+  
+  .image-container img {
+      z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; /* Set the height of the image to automatically adjust based on its width */
+    object-fit: cover; /* Scale the image to cover the entire container */
+  }
+  @media only screen and (max-width: 768px) {
+    .image-container {
+      height: 100%;
+      min-height: 100vh;
+    }
+  }
+  .control-panel{
+    bottom: 0px;
+    position: absolute;
+    border: transparent;
+    padding: 10px;
+    border-radius: 10%;
+    /* background-image: url(https://media.tenor.com/LDSTdlT6hTIAAAAC/necessary-disorder-abstract.gif); */
+
+    display: inline-block;
+  }
+  /* .ball-colour{
+    border-radius: 10%;
+
+  }
+  .game-level{
+    border-radius: 10%;
+  } */
+  .top-row{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+      .start-button {
+      background: hsl(180, 60%, 38%);
+      border-radius: 12px;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      outline-offset: 4px;
+      position: absolute;
+      top: 50%;
+      left: 41%;
+    }
+    .front {
+      display: block;
+      padding: 15px 42px;
+      border-radius: 12px;
+      
+      background: hsl(182, 100%, 51%);
+      color: rgb(255, 255, 255);
+      -webkit-text-stroke: 1px black;
+      transform: translateY(-6px);
+    }
+  
+    .start-button:active .front {
+      transform: translateY(-2px);
+    }
+      *{
+          margin: 0%;
+          padding: 0%;
+          font-size: 2.4vw;
+          cursor: url(cs2.png) 14 15,pointer;
+          font-family: 'Lucida Sans';
+          font-weight: 900;
+          color: rgb(51, 255, 0);
+          -webkit-user-select: none;
+          -ms-user-select: none; 
+          user-select: none;
+      }
+      .play-again {
+        display: none;
+      background: hsl(180, 60%, 38%);
+      border-radius: 12px;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      outline-offset: 4px;
+      position: absolute;
+      top: 50%;
+      left: 41%;
+    }
+    .play-span {
+      display: block;
+      padding: 15px 42px;
+      border-radius: 12px;
+      background: hsl(182, 100%, 51%);
+      color: rgb(255, 255, 255);
+      -webkit-text-stroke: 1px black;
+      transform: translateY(-6px);
+    }
+  
+    .play-again:active .play-span {
+      transform: translateY(-2px);
+    }
+      *{
+          margin: 0%;
+          padding: 0%;
+          cursor: url(cs2.png) 14 15,pointer;
+          font-family: 'Lucida Sans';
+          font-weight: 900;
+          color: rgb(51, 255, 0);
+          -webkit-user-select: none; /* Safari */
+          -ms-user-select: none; /* IE 10 and IE 11 */
+          user-select: none;
+      }
+      .fps-box{
+        display: flex;
+        bottom:1px ;
+        right: 1px;
+        position:absolute;
+      }
+      #fps{
+          cursor: url(cs2.png) 14 15,pointer;
+          bottom:1px ;
+          right: 1px;
+          font-family: 'Lucida Sans';
+          font-weight: 900;
+          color: rgb(51, 255, 0);
+      }
+      .hit-box{
+          position: fixed;
+          top: calc(100% * var(--top));
+          left: calc(100% * var(--left));
+          background-image: linear-gradient(rgb(0, 255, 255),rgb(107, 151, 151));
+          text-shadow: 10px 10px 40px rgb(0, 0, 0);
+          box-shadow: -20px 30px 15px 1px rgb(0, 0, 0,0.3);
+          width: 1.5cm;
+          height: 1.5cm;
+          border-radius: 50%;
+          background-image: null;
+          --top:0.5;
+          --left:0.5;
+          background-repeat: no-repeat;
+          background-size: 100%;
+          background-position :center;
+      }
+      @keyframes disappear {
+          from {
+                  opacity: 1;
+              }
+          to {
+                  opacity: 0;
+              }
+          }
+      @keyframes appear {
+          from {
+                  opacity: 0;
+              }
+          to {
+                  opacity: 1;
+              }
+          }
