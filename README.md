@@ -35,7 +35,7 @@ The objective is to achieve the highest score possible within the given time fra
   
 <h1>Issues</h1>
 
-- Read [Issues]([#](https://github.com/Calamivathan/Potato-AimLabs.github.io/issues))
+- Read [Issues]([https://github.com/Calamivathan/Potato-AimLabs.github.io/issues])
 
 <h1>Credits</h1>
 
