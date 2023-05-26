@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/logo.png" />
+  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs.github.io/blob/main/logo.jpg" />
 </p>
 
 <p align="center">        
