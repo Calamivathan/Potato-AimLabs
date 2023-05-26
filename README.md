@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">        
-      <a href="#"><img src="https://www.svgrepo.com/show/174382/awwwards-website-logo.svg"></a>
+      <a href="#"><img src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png"></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Awwards-logotype-2018.svg/512px-Awwards-logotype-2018.svg.png?20180924071618"></a>
       <a href="#"><img src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454948/codepen-wordmark-display-inside-black@10x_16397a56ea/codepen-wordmark-display-inside-black@10x_16397a56ea.png?_i=AA"></a>
       </p>
