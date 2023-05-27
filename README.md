@@ -1,11 +1,11 @@
   <p align="center">
-  <a href="https://github.com/Calamivathan/Potato-AimLabs.github.io/tree/main"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs.github.io/main/maxresdefault.jpg" />
+  <a href="https://github.com/Calamivathan/Potato-AimLabs.github.io/tree/main"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg" />
 </p>
 
 <p align="center">        
-      <a href="#"><img style="width:100px;height:auto;" src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png"></a>
-      <a href="#"><img style="width:100px;height:auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Awwards-logotype-2018.svg/512px-Awwards-logotype-2018.svg.png?20180924071618"></a>
-      <a href="#"><img style="width:100px;height:auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454948/codepen-wordmark-display-inside-black@10x_16397a56ea/codepen-wordmark-display-inside-black@10x_16397a56ea.png?_i=AA"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
       </p>
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
