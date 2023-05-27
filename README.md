@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <h1><a href="https://github.com/Calamivathan">Link to my profile</a></h1>
+  <h1><a href="https://github.com/Calamivathan">Link to my profile</a>
   <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>&emsp;&emsp;
   <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>&emsp;&emsp;
   <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>&emsp;&emsp;
-  <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen.png"></a>
+  <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen.png"></a></h1>
 </p>
 
 
