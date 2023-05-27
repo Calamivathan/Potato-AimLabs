@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-      <h2>Links to my profile 👉</h2>
+      Links to my profile 👉
       <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>&emsp;&emsp;
       <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>&emsp;&emsp;
       <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>&emsp;&emsp;
