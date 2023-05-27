@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">        
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.jpg"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/awwards.png"></a>
       </p>
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
