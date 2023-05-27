@@ -2,13 +2,14 @@
   <a href="https://github.com/Calamivathan/Potato-AimLabs.github.io/tree/main"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg" />
 </p>
 
-<h1 align="center"><a href="https://github.com/Calamivathan">Link to my profile</a></h1>
 <p align="center">
+  <h1><a href="https://github.com/Calamivathan">Link to my profile</a></h1>
   <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>&emsp;&emsp;
   <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>&emsp;&emsp;
   <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>&emsp;&emsp;
   <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen.png"></a>
 </p>
+
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
 
