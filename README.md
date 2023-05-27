@@ -1,18 +1,8 @@
   <p align="center">
   <a href="https://github.com/Calamivathan/Potato-AimLabs.github.io/tree/main"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/maxresdefault.jpg" />
 </p>
-  
-  
-<h1 align="center">Link's to my profile</h1>
-<p align="center">
-  <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>&emsp;
-  <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>&emsp;
-  <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>&emsp;
-  <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen.png"></a>
-</p>
 
-
-   <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
+   <h1 align="center"><b> Potato Aim Labs </b></h1>
 
 <h1>About Potato AimLabs</h1>
   
@@ -70,3 +60,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</p>
+
+
+<h1 align="center">Link's to my profile</h1>
+<p align="center">
+  <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>&emsp;
+  <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>&emsp;
+  <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>&emsp;
+  <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen.png"></a>
+</p>
