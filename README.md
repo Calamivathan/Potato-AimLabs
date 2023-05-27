@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">        
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>
-      <a href="#"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>
+      <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github.png"></a>
+      <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin.png"></a>
+      <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards.png"></a>
       </p>
 
    <h2> <div align="center"><b> Potato Aim Labs </b></div> </h2>
