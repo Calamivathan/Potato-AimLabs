@@ -37,6 +37,7 @@ The objective is to achieve the highest score possible within the given time fra
 - Read [Issues](https://github.com/Calamivathan/Potato-AimLabs/issues)
 
 <h1>Discussions</h1>
+
 - lets start some Discussions on this topic :) click below to read and get started
 - Read [Discussions](https://github.com/Calamivathan/Potato-AimLabs/Discussions)
 
