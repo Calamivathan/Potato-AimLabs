@@ -34,7 +34,11 @@ The objective is to achieve the highest score possible within the given time fra
   
 <h1>Issues</h1>
 
-- Read [Issues](https://github.com/Calamivathan/Potato-AimLabs.github.io/issues)
+- Read [Issues](https://github.com/Calamivathan/Potato-AimLabs/issues)
+
+<h1>Discussions</h1>
+- lets start some Discussions on this topic :) click below to read and get started
+- Read [Discussions](https://github.com/Calamivathan/Potato-AimLabs/Discussions)
 
 <h1>Credits</h1>
 
