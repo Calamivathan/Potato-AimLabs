@@ -64,8 +64,8 @@ SOFTWARE.</p>
 
 <h1 align="center">Link's to my profile</h1>
 <p align="center">
-  <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github-g.png"></a>&emsp;
-  <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin-g.png"></a>&emsp;
-  <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards-g.png"></a>&emsp;
+  <a href="https://github.com/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/github-g.png"></a>&emsp;&emsp;
+  <a href="https://www.linkedin.com/in/ritik-sehrawat-b4555624b/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/linkedin-g.png"></a>&emsp;&emsp;
+  <a href="https://www.awwwards.com/Calamivathan/"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/Awwards-g.png"></a>&emsp;&emsp;
   <a href="https://codepen.io/Calamivathan"><img src="https://raw.githubusercontent.com/Calamivathan/Potato-AimLabs/main/src/images/codepen-g.png"></a>
 </p>
